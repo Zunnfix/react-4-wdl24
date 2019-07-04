@@ -5,7 +5,7 @@ import Characters from "./components/Characters";
 function App() {
   return (
     <div className="App">
-      <h1>The Breaking Bad API</h1>
+      <h1>Star Wars API</h1>
       <Characters />
     </div>
   );
